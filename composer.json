@@ -1,0 +1,21 @@
+{
+    "name": "kzaz4400/asana-wrapper",
+    "description": "PHP Wrapper library for the Asana Api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "kzaz4400\\AsanaWrapper\\": "src/AsanaWrapper/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kzaz4400",
+            "email": "kazuhiko.azezaki@gmail.com"
+        }
+    ]
+}
