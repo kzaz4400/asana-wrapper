@@ -12,7 +12,7 @@ require_once '../../../vendor/autoload.php';
 
 try {
     // AsanaWrapper
-    $client = Client::getInstance(<ENV_PAT>);
+    $client = Client::getInstance("ENV_PAT");
     $task = new Task($client);
     $project = new Project($client);
 

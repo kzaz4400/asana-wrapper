@@ -45,6 +45,7 @@ class ErrorHandler extends Exception
 
     /**
      * エラーログのパス
+     * @var string
      */
     public const string LOG_PATH = DirectorySettings::LOG_DIR . 'error.log';
 
@@ -256,7 +257,7 @@ class ErrorHandler extends Exception
      * @param $var
      * @return false|string
      */
-    public function outputVar_dump($var)
+    public function outputVar_dump($var): false|string
     {
         // 出力バッファリング開始
         ob_start();

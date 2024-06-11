@@ -7,6 +7,7 @@ use JsonException;
 use kzaz4400\AsanaWrapper\errors\ConnectionException;
 
 /**
+ * Story
  * @see https://developers.asana.com/reference/stories
  */
 class Story
