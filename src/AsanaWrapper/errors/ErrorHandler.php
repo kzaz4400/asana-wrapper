@@ -45,6 +45,7 @@ class ErrorHandler extends Exception
 
     /**
      * エラーログのパス
+     * @var string
      */
     public const string LOG_PATH = DirectorySettings::LOG_DIR . 'error.log';
 
