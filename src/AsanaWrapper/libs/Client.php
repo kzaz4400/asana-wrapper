@@ -7,7 +7,7 @@ use JsonException;
 use kzaz4400\AsanaWrapper\errors\ConnectionException;
 
 /**
- *
+ * Clients connecting to the ASANA API
  */
 class Client
 {
@@ -75,6 +75,7 @@ class Client
     }
 
     /**
+     * Check if connection to ASANA API is possible
      * @throws ConnectionException
      * @return void
      */

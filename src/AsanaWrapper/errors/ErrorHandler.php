@@ -257,7 +257,7 @@ class ErrorHandler extends Exception
      * @param $var
      * @return false|string
      */
-    public function outputVar_dump($var)
+    public function outputVar_dump($var): false|string
     {
         // 出力バッファリング開始
         ob_start();

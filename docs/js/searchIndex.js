@@ -1,36 +1,6 @@
 Search.appendIndex(
     [
                 {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings",
-            "name": "WebsiteSettings",
-            "summary": "\u30A6\u30A7\u30D6\u30B5\u30A4\u30C8\u306E\u8A2D\u5B9A",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings\u003A\u003ATITLE",
-            "name": "TITLE",
-            "summary": "",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html#constant_TITLE"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings\u003A\u003AAUTHOR",
-            "name": "AUTHOR",
-            "summary": "",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html#constant_AUTHOR"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings\u003A\u003AAUTHOR_EMAIL",
-            "name": "AUTHOR_EMAIL",
-            "summary": "",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html#constant_AUTHOR_EMAIL"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings\u003A\u003AVERSION",
-            "name": "VERSION",
-            "summary": "",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html#constant_VERSION"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config\\WebsiteSettings\u003A\u003ALOGO",
-            "name": "LOGO",
-            "summary": "",
-            "url": "classes/kzaz4400-AsanaWrapper-config-WebsiteSettings.html#constant_LOGO"
-        },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\errors\\ApiResponseException",
             "name": "ApiResponseException",
             "summary": "",
@@ -98,7 +68,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Client",
             "name": "Client",
-            "summary": "",
+            "summary": "Clients\u0020connecting\u0020to\u0020the\u0020ASANA\u0020API",
             "url": "classes/kzaz4400-AsanaWrapper-libs-Client.html"
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Client\u003A\u003A__construct\u0028\u0029",
@@ -113,7 +83,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Client\u003A\u003AcheckMe\u0028\u0029",
             "name": "checkMe",
-            "summary": "",
+            "summary": "Check\u0020if\u0020connection\u0020to\u0020ASANA\u0020API\u0020is\u0020possible",
             "url": "classes/kzaz4400-AsanaWrapper-libs-Client.html#method_checkMe"
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Client\u003A\u003A\u0024user",
@@ -178,7 +148,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Story",
             "name": "Story",
-            "summary": "",
+            "summary": "Story",
             "url": "classes/kzaz4400-AsanaWrapper-libs-Story.html"
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\libs\\Story\u003A\u003A__construct\u0028\u0029",
@@ -360,11 +330,6 @@ Search.appendIndex(
             "name": "\\",
             "summary": "",
             "url": "namespaces/default.html"
-        },                {
-            "fqsen": "\\kzaz4400\\AsanaWrapper\\config",
-            "name": "config",
-            "summary": "",
-            "url": "namespaces/kzaz4400-asanawrapper-config.html"
         },                {
             "fqsen": "\\kzaz4400\\AsanaWrapper\\errors",
             "name": "errors",

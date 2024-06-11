@@ -9,9 +9,24 @@ namespace kzaz4400\AsanaWrapper\config;
  */
 class WebsiteSettings
 {
-    public const TITLE = 'AsanaWrapper';
-    public const AUTHOR = 'kzaz4400';
-    public const AUTHOR_EMAIL = 'kazuhiko.azezaki@gmail.com';
-    public const VERSION = '';
-    public const LOGO = '';
+    /**
+     * @var string
+     */
+    public const string TITLE = 'AsanaWrapper';
+    /**
+     * @var string
+     */
+    public const string AUTHOR = 'kzaz4400';
+    /**
+     * @var string
+     */
+    public const string AUTHOR_EMAIL = 'kazuhiko.azezaki@gmail.com';
+    /**
+     * @var string
+     */
+    public const string VERSION = '';
+    /**
+     * @var string
+     */
+    public const string LOGO = '';
 }
